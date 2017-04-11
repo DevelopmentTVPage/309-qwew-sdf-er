@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Stage Damian 214E"
+baseURL = "https:\/\/qwew.sdf.er"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
