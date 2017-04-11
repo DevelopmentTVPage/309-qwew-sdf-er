@@ -2,6 +2,6 @@
     "type": "solo",
     "title": "wqe",
     "name": "wqe",
-    "channelId": "",
+    "channelId": "83052333",
     "layout": "bootstrap"
 }
